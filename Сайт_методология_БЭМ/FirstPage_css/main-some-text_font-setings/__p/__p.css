@@ -1,0 +1,12 @@
+.main-some-text_background-black {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.main-some-text__p_font-setings {
+    color: white;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    /* padding-top: 25px;
+    padding-bottom: 25px; */
+}

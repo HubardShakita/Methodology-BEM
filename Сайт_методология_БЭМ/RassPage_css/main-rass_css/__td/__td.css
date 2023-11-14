@@ -1,0 +1,29 @@
+.main-rass__td-horde_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.main-rass__td-alince_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.main-rass__td-netraul_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.main-rass__td-img-netraul_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.main-rass__td-img-alince_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.main-rass__td-img-horde_border {
+    border: 3px solid white;
+    border-radius: 10px;
+}

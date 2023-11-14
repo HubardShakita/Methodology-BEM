@@ -1,0 +1,20 @@
+.main-rass__tr-horde_setings{
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: rgba(255, 0, 0, 0.5);
+    color: white;
+}
+
+.main-rass__tr-alince_setings {
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: rgba(0, 3, 207, 0.5);
+    color: white;
+}
+
+.main-rass__tr-netraul_setings {
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: rgba(135, 135, 135, 0.5);
+    color: white;
+}
